@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dicoplay.aternos.me",
+    "ip": "dicoplay.aternos.me:43073",
     "port": 43073,
     "version": "",
     "try-creative": false
